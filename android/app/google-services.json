@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228297957037",
+    "project_id": "flutter-chat-369e7",
+    "storage_bucket": "flutter-chat-369e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228297957037:android:bb99651a78c0a2b7c63024",
+        "android_client_info": {
+          "package_name": "com.example.great_places_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228297957037-fm8vqtm0etfs92miejsanjujsuegsqu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahEVBUyZg5swS2Saj3FEw-lRJByWWT4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228297957037-fm8vqtm0etfs92miejsanjujsuegsqu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
